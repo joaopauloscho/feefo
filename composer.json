@@ -14,7 +14,7 @@
         }
     ],
     "require": {
-        "guzzlehttp/guzzle": "6.5.0"
+        "guzzlehttp/guzzle": "6.5.2"
     },
     "autoload": {
         "psr-4": { "Evoluted\\Feefo\\": ["src/"] }
